@@ -1,4 +1,4 @@
-# RecipeBook
+# Fitness-app
 
 ### [Live Site](https://fitness-tracker-6d97e.web.app/)
 
