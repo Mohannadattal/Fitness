@@ -5,7 +5,7 @@
 ![Recipe Book Application](https://i.ibb.co/jRN4TbQ/Screenshot-from-2023-02-08-11-42-18.png)
 
 ## Introduction
-A complete recipe fitness application that uses Angular with NgRx for the frontend, and Firebase for the backend.
+A complete  fitness application that uses Angular with NgRx for the frontend, and Firebase for the backend.
 
 ## Installation and Usage:
 - Install [Node.js](https://nodejs.org/en/download/)
