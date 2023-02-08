@@ -1,0 +1,13 @@
+img {
+  width: 100%;
+  max-width: 1700px;
+  margin: 0 auto;
+  height: 500px;
+  opacity: 0.8;
+}
+
+.welcome {
+  text-align: center;
+
+}
+

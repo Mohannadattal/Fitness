@@ -1,0 +1,13 @@
+
+mat-sidenave-container, mat-sidenave-content, mat-sidenave {
+  height: 100%;
+}
+
+mat-sidenav {
+  width: 250px;
+  background-color:#181d1e;
+}
+
+
+
+
